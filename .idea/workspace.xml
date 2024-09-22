@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6ebf11-17be-4543-b615-2800f89efdee" name="Changes" comment="trabalho de solid">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/antes/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/antes/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/antes/Pato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/antes/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/depois/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/depois/AnimalAereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/depois/AnimalAquatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/depois/AnimalTerrestre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/depois/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/depois/Pato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/isp/depois/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/lsp/antes/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/lsp/antes/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/lsp/depois/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/lsp/depois/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/lsp/depois/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/ocp/antes/ProcessadorPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/ocp/depois/MetodoPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/ocp/depois/PagamentoBitcoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/ocp/depois/PagamentoCartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/ocp/depois/PagamentoPayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/ocp/depois/ProcessadorExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/ocp/depois/ProcessadorPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/srp/antes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/srp/depois/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/srp/depois/PessoaFormatador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lucas/srp/depois/PessoaRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2mQodaY8cYyKCUTf8oGEF1VC5IA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ContaExecution.executor": "Run",
+    "Application.FormaExecutor.executor": "Run",
+    "Application.ProcessadorExecution.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/lucas/OneDrive/Documentos/gestao10x/trabalho-solid/src/main/java/me/lucas/isp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FormaExecutor">
+    <configuration name="ContaExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.lucas.lsp.antes.ContaExecution" />
+      <module name="trabalho-solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.lucas.lsp.antes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormaExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.lucas.lsp.antes.FormaExecutor" />
+      <module name="trabalho-solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.lucas.lsp.antes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessadorExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.lucas.ocp.depois.ProcessadorExecution" />
+      <module name="trabalho-solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.lucas.ocp.depois.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FormaExecutor" />
+        <item itemvalue="Application.ContaExecution" />
+        <item itemvalue="Application.ProcessadorExecution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6ebf11-17be-4543-b615-2800f89efdee" name="Changes" comment="" />
+      <created>1727018250345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727018250345</updated>
+      <workItem from="1727018310638" duration="4525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trabalho de solid" />
+    <option name="LAST_COMMIT_MESSAGE" value="trabalho de solid" />
+  </component>
+</project>
